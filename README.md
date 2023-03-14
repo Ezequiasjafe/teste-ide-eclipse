@@ -1,2 +1,2 @@
 # Teste-Ide-Eclipse
-- Exercicio:Primeiro Programa
+- Exercicio: Primeiro Programa na Linguagem Java
